@@ -34,8 +34,8 @@ class Main extends React.Component {
             <img src={pic01} alt="Being Visionary" />
 
           </span>
-          <p> <button type="button" data-webinarHash="n7438f7" >
-            Register now</button></p>
+          <a href="https://event.webinarjam.com/register/n7438f7" target="_blank" className="calendly" >Register Now</a>
+          
           <p>
             Creativity is code for freedom; emancipation to move without restraint or authority. Creativity 
             as a word has become bastardized, misunderstood. It's a key component to standing out rather than 

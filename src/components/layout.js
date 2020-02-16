@@ -48,7 +48,6 @@ const Layout = ({ children, location }) => {
           >
             <html lang="en" />
            
-        <script src="https://event.webinarjam.com/register/n7438f7/embed-button"></script>
        
           </Helmet>
           {content}
